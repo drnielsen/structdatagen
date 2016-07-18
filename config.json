@@ -1,0 +1,16 @@
+{
+  "dataset_name" : {
+    "column_name1" : {
+      "type" : "string",
+      "generator" : "random"
+    },
+    "column_name2" : {
+      "type" : "string",
+      "generator" : "random"
+    },
+    "column_name3" : {
+      "type" : "string",
+      "generator" : "random"
+    }
+  }
+}
